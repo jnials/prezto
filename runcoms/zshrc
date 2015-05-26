@@ -26,3 +26,11 @@ export GOPATH=$HOME/Work/threatgrid-ops:$HOME/Work/sandcastle
 unalias run-help
 autoload run-help
 HELPDIR=/usr/local/share/zsh/help
+
+
+# Aliases
+alias swift=/usr/local/bin/swift
+
+# CDPATH
+CDPATH="$HOME/Work:$HOME"
+
